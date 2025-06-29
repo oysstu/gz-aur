@@ -1,0 +1,177 @@
+repositories:
+  gz-cmake3:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-cmake3.git
+    version: master
+  gz-cmake4:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-cmake4.git
+    version: master
+  gz-common5:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-common5.git
+    version: master
+  gz-common6:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-common6.git
+    version: master
+  gz-fuel-tools10:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-fuel-tools10.git
+    version: master
+  gz-fuel-tools8:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-fuel-tools8.git
+    version: master
+  gz-fuel-tools9:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-fuel-tools9.git
+    version: master
+  gz-garden:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-garden.git
+    version: master
+  gz-gui7:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-gui7.git
+    version: master
+  gz-gui8:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-gui8.git
+    version: master
+  gz-gui9:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-gui9.git
+    version: master
+  gz-harmonic:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-harmonic.git
+    version: master
+  gz-ionic:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-ionic.git
+    version: master
+  gz-launch6:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-launch6.git
+    version: master
+  gz-launch7:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-launch7.git
+    version: master
+  gz-launch8:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-launch8.git
+    version: master
+  gz-math7:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-math7.git
+    version: master
+  gz-math8:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-math8.git
+    version: master
+  gz-msgs10:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-msgs10.git
+    version: master
+  gz-msgs11:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-msgs11.git
+    version: master
+  gz-msgs9:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-msgs9.git
+    version: master
+  gz-physics6:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-physics6.git
+    version: master
+  gz-physics7:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-physics7.git
+    version: master
+  gz-physics8:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-physics8.git
+    version: master
+  gz-plugin2:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-plugin2.git
+    version: master
+  gz-plugin3:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-plugin3.git
+    version: master
+  gz-rendering7:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-rendering7.git
+    version: master
+  gz-rendering8:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-rendering8.git
+    version: master
+  gz-rendering9:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-rendering9.git
+    version: master
+  gz-sensors7:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-sensors7.git
+    version: master
+  gz-sensors8:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-sensors8.git
+    version: master
+  gz-sensors9:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-sensors9.git
+    version: master
+  gz-sim7:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-sim7.git
+    version: master
+  gz-sim8:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-sim8.git
+    version: master
+  gz-sim9:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-sim9.git
+    version: master
+  gz-tools2:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-tools2.git
+    version: master
+  gz-transport12:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-transport12.git
+    version: master
+  gz-transport13:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-transport13.git
+    version: master
+  gz-transport14:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-transport14.git
+    version: master
+  gz-utils2:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-utils2.git
+    version: master
+  gz-utils3:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-utils3.git
+    version: master
+  sdformat13:
+    type: git
+    url: ssh://aur@aur.archlinux.org/sdformat13.git
+    version: master
+  sdformat14:
+    type: git
+    url: ssh://aur@aur.archlinux.org/sdformat14.git
+    version: master
+  sdformat15:
+    type: git
+    url: ssh://aur@aur.archlinux.org/sdformat15.git
+    version: master
