@@ -48,7 +48,7 @@ def update_pkgbuild(pkgbuild_dir: str, new_version: str):
 
 if __name__ == '__main__':
     import argparse
-    parser = argparse.ArgumentParser(description='Create mosaic for the specified mission.')
+    parser = argparse.ArgumentParser(description='Update AUR package version from gz repository tags.')
     parser.add_argument('--dir', required=True, default='./src', type=str, help='Target folder')
     args = parser.parse_args()
 
