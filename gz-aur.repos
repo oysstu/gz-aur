@@ -7,6 +7,10 @@ repositories:
     type: git
     url: ssh://aur@aur.archlinux.org/gz-cmake4.git
     version: master
+  gz-cmake5:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-cmake5.git
+    version: master
   gz-common5:
     type: git
     url: ssh://aur@aur.archlinux.org/gz-common5.git
@@ -15,9 +19,17 @@ repositories:
     type: git
     url: ssh://aur@aur.archlinux.org/gz-common6.git
     version: master
+  gz-common7:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-common7.git
+    version: master
   gz-fuel-tools10:
     type: git
     url: ssh://aur@aur.archlinux.org/gz-fuel-tools10.git
+    version: master
+  gz-fuel-tools11:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-fuel-tools11.git
     version: master
   gz-fuel-tools8:
     type: git
@@ -30,6 +42,10 @@ repositories:
   gz-garden:
     type: git
     url: ssh://aur@aur.archlinux.org/gz-garden.git
+    version: master
+  gz-gui10:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-gui10.git
     version: master
   gz-gui7:
     type: git
@@ -71,6 +87,10 @@ repositories:
     type: git
     url: ssh://aur@aur.archlinux.org/gz-math8.git
     version: master
+  gz-math9:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-math9.git
+    version: master
   gz-msgs10:
     type: git
     url: ssh://aur@aur.archlinux.org/gz-msgs10.git
@@ -103,6 +123,14 @@ repositories:
     type: git
     url: ssh://aur@aur.archlinux.org/gz-plugin3.git
     version: master
+  gz-plugin4:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-plugin4.git
+    version: master
+  gz-rendering10:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-rendering10.git
+    version: master
   gz-rendering7:
     type: git
     url: ssh://aur@aur.archlinux.org/gz-rendering7.git
@@ -114,6 +142,10 @@ repositories:
   gz-rendering9:
     type: git
     url: ssh://aur@aur.archlinux.org/gz-rendering9.git
+    version: master
+  gz-sensors10:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-sensors10.git
     version: master
   gz-sensors7:
     type: git
@@ -155,6 +187,10 @@ repositories:
     type: git
     url: ssh://aur@aur.archlinux.org/gz-transport14.git
     version: master
+  gz-transport15:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-transport15.git
+    version: master
   gz-utils2:
     type: git
     url: ssh://aur@aur.archlinux.org/gz-utils2.git
@@ -162,6 +198,10 @@ repositories:
   gz-utils3:
     type: git
     url: ssh://aur@aur.archlinux.org/gz-utils3.git
+    version: master
+  gz-utils4:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-utils4.git
     version: master
   sdformat13:
     type: git
@@ -174,4 +214,8 @@ repositories:
   sdformat15:
     type: git
     url: ssh://aur@aur.archlinux.org/sdformat15.git
+    version: master
+  sdformat16:
+    type: git
+    url: ssh://aur@aur.archlinux.org/sdformat16.git
     version: master
