@@ -79,6 +79,10 @@ repositories:
     type: git
     url: ssh://aur@aur.archlinux.org/gz-launch8.git
     version: master
+  gz-launch9:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-launch9.git
+    version: master
   gz-math7:
     type: git
     url: ssh://aur@aur.archlinux.org/gz-math7.git
@@ -99,6 +103,10 @@ repositories:
     type: git
     url: ssh://aur@aur.archlinux.org/gz-msgs11.git
     version: master
+  gz-msgs12:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-msgs12.git
+    version: master
   gz-msgs9:
     type: git
     url: ssh://aur@aur.archlinux.org/gz-msgs9.git
@@ -114,6 +122,10 @@ repositories:
   gz-physics8:
     type: git
     url: ssh://aur@aur.archlinux.org/gz-physics8.git
+    version: master
+  gz-physics9:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-physics9.git
     version: master
   gz-plugin2:
     type: git
@@ -158,6 +170,10 @@ repositories:
   gz-sensors9:
     type: git
     url: ssh://aur@aur.archlinux.org/gz-sensors9.git
+    version: master
+  gz-sim10:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-sim10.git
     version: master
   gz-sim7:
     type: git
