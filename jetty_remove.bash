@@ -1,0 +1,1 @@
+paru -R sdformat16 gz-jetty gz-cmake5 gz-common7 gz-fuel-tools11 gz-gui10 gz-launch9 gz-math9 gz-msgs12 gz-physics9 gz-plugin4 gz-rendering10 gz-sensors10 gz-sim10 gz-tools2 gz-transport15 gz-utils4

@@ -1,0 +1,1 @@
+paru -S --rebuild sdformat15 gz-ionic gz-cmake4 gz-common6 gz-fuel-tools10 gz-gui9 gz-launch8 gz-math8 gz-msgs11 gz-physics8 gz-plugin3 gz-rendering9 gz-sensors9 gz-sim9 gz-tools2 gz-transport14 gz-utils3
