@@ -16,5 +16,6 @@ python update_tags.py --dir ./src
 ```bash
 ./update_srcinfo.bash
 vcs custom --git --args add PKGBUILD .SRCINFO
-vcs custom --git --args commit "Update version"
+vcs custom --git --args commit -m "Update version"
+./push_all.bash
 ```

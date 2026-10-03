@@ -67,6 +67,10 @@ repositories:
     type: git
     url: ssh://aur@aur.archlinux.org/gz-ionic.git
     version: master
+  gz-jetty:
+    type: git
+    url: ssh://aur@aur.archlinux.org/gz-jetty.git
+    version: master
   gz-launch6:
     type: git
     url: ssh://aur@aur.archlinux.org/gz-launch6.git
